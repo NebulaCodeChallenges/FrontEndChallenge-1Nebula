@@ -6,3 +6,6 @@ We do not believe board questions are the best way to assess your capabilities. 
 If you have any questions please do not hesitate to raise them with us. Please note down any assumptions you may make during the challenge. Feel free to add explanations of your thinking as you go thorugh the exercise.
 
 Good luck, take your time, and have fun! 😊
+
+## Exercise
+The [Front-End Challenge](https://github.com/NebulaCodeChallenges/FrontEndChallenge-1Nebula/blob/main/contacts.json) file contains the instructions for the challenge that you are required to complete.
