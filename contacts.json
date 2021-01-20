@@ -1,0 +1,30 @@
+[
+    {
+        "firstName": "Bob",
+        "lastName": "George",
+        "email": "bob@email.com",
+        "address": "24 Main Road",
+        "cellNumber": "0123456789"
+    },
+    {
+        "firstName": "Alice",
+        "lastName": "Burger",
+        "email": "alice@email.com",
+        "address": "256 Time Ave",
+        "cellNumber": "0987654321"
+    },
+    {
+        "firstName": "Trudy",
+        "lastName": "Turner",
+        "email": "trudy@email.com",
+        "address": "16 Park Lane",
+        "cellNumber": "0654987321"
+    },
+    {
+        "firstName": "Pieter",
+        "lastName": "Scott",
+        "email": "pieter@email.com",
+        "address": "512 Town Way",
+        "cellNumber": "0129874563"
+    }
+]
